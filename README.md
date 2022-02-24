@@ -1,7 +1,10 @@
 # Image_classifier_p5js
 
 
-the code is inspired from one of Coding train videos
+**the code is inspired from one of Coding train videos**
+
+## How does it work
+the script will display video from the pc webcam, use a trained deep learning model to classify the images and consol.log the result 
 
 
 ### files
